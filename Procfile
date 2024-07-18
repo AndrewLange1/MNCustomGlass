@@ -1,0 +1,1 @@
+web: cd mncustomglass && npm start
